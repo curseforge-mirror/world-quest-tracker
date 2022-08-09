@@ -1,5 +1,6 @@
-# Curseforge Mirror Template
+# World Quest Tracker Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of Terciob's World Quest Tracker 
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/world-quest-tracker)
+- [Github URL](https://github.com/Tercioo/World-Quest-Tracker)
